@@ -7,7 +7,7 @@ Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikh
 Get the Full theme: https://github.com/SpotechYT/Serika-Dark
 
 ## Screenshot
-![Screen](https://raw.githubusercontent.com/SpotechYT/serika-dark-cmd/main/Screenshot.png)
+![Screen](https://github.com/SpotechYT/serika-dark-cmd/blob/main/Screenshot.png)
 
 ## How to apply:
 You can apply this theme to almost any terminal all, but here's the basics
